@@ -1,13 +1,13 @@
-#My contacts:
+# My contacts:
 
-*Tel. +7(978)695-72-31,
-*e-mail: xshor@yandex.ru,
-*my telegramm: @Malafeev_Semyon
-*My nickname in Discord: Funcatcher (@Semyon-Malafeev)
+- Tel. +7(978)695-72-31
+- E-mail: xshor@yandex.ru
+- My telegramm: @Malafeev_Semyon
+- My nickname in Discord: Funcatcher (@Semyon-Malafeev)
 
 ***About yourself:***
 
-*My current job is related to construction, now I work as an engineer in the production and technical department. I get great pleasure when I manage to solve tasks. I want to master frontend development. I've studied Python and Java a bit and enjoy programming.
+- My current job is related to construction, now I work as an engineer in the production and technical department. I get great pleasure when I manage to solve tasks. I want to master frontend development. I've studied Python and Java a bit and enjoy programming.
 
 ***Code examples:***
 
@@ -44,14 +44,14 @@ print("Left quarter:", left)
 
 ***Work experience:***
 
-*I took a beginner's course in programming language Phyton https://stepik.org/cert/3038234?lang=en
+- I took a beginner's course in programming language Phyton https://stepik.org/cert/3038234?lang=en
 
 ***My education:***
 
-*St. Petersburg College of Architecture and Civil Engineering Construction technician
-*Saint Petersburg State University of Engineering and Economics "INJEKON", Saint Petersburg Manager of Urban Economy
-*Moscow Open Institute, Moscow Industrial and civil engineering (engineer, architectural engineer)
+- St. Petersburg College of Architecture and Civil Engineering Construction technician
+- Saint Petersburg State University of Engineering and Economics "INJEKON", Saint Petersburg Manager of Urban Economy
+- Moscow Open Institute, Moscow Industrial and civil engineering (engineer, architectural engineer)
 
 ***English language proficiency level:**
 
-*A2 - Pre-Intermediate
+- A2 - Pre-Intermediate

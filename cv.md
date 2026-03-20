@@ -54,6 +54,6 @@ print("Left quarter:", left)
 - Saint Petersburg State University of Engineering and Economics "INJEKON", Saint Petersburg Manager of Urban Economy
 - Moscow Open Institute, Moscow Industrial and civil engineering (engineer, architectural engineer)
 
-***English language proficiency level:**
+***English language proficiency level:***
 
 - A2 - Pre-Intermediate

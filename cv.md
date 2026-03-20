@@ -1,18 +1,11 @@
-<<<<<<< HEAD
-# My contacts:
+# Malafeev Semyon Alekseevich
+
+***My contacts:***
 
 - Tel. +7(978)695-72-31
 - E-mail: xshor@yandex.ru
 - My telegramm: @Malafeev_Semyon
 - My nickname in Discord: Funcatcher (@Semyon-Malafeev)
-=======
-# My contacts:#
-
-_Tel. +7(978)695-72-31
-_E-mail: xshor@yandex.ru
-_My telegramm: @Malafeev_Semyon
-_My nickname in Discord: Funcatcher (@Semyon-Malafeev)
->>>>>>> dea6f832c544187213a7eb9fc3e7fd9e4ae0ddd8
 
 ***About yourself:***
 
